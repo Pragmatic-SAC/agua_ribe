@@ -12,7 +12,7 @@
     'author': "Kelvin Meza",
     'website': "http://www.pragmatic.com.pe",
     'category': 'Invoicing Management',
-    'version': '0.1',
+    'version': '15.0.1',
 
     'depends': ['l10n_mx_edi'],
 
